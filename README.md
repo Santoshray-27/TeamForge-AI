@@ -388,5 +388,5 @@ This project is for educational and hackathon demonstration purposes.
 
 ---
 
-<p align="center">Built with ❤️ for hackathon champions · Powered by Google Gemini AI</p>
+<p align="center">Built with ❤️ for hackathon champions ·</p>
 
